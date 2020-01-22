@@ -1,0 +1,20 @@
+{
+  "name": "file_upload_s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunal-thinlimbs/File-upload-with_AWS_S3_BUCKET.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunal-thinlimbs/File-upload-with_AWS_S3_BUCKET/issues"
+  },
+  "homepage": "https://github.com/kunal-thinlimbs/File-upload-with_AWS_S3_BUCKET#readme"
+}
